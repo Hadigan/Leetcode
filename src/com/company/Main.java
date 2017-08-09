@@ -3,11 +3,9 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        String s = "aasjhdfajkhk";
-        String resultString;
-        Solution sol = new Solution();
-        resultString = sol.convert(s, 3);
-        System.out.println(resultString);
+        String str = "";
+        SolOfStringToInterger sol = new SolOfStringToInterger();
+        System.out.println(sol.myAtoi(str));
         return;
     }
 }
