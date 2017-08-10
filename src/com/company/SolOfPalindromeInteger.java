@@ -22,8 +22,8 @@ public class SolOfPalindromeInteger {
     }
     public boolean isPalindrome2(int x) {
         if (x < 0) return false;
-        long result = 0;
-        long origin = x;
+        int result = 0;
+        int origin = x; //如果是回文的话就一定不会溢出
         while(x != 0) {
             result = result*10 + x%10;
             x = x / 10;
