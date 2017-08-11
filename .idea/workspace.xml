@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="beb24861-b30a-41a9-b8a4-4fd961a6a8b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/SolOfBuySellStock.java" afterPath="$PROJECT_DIR$/src/com/company/SolOfBuySellStock.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/SolOfMaxSubarray.java" afterPath="$PROJECT_DIR$/src/com/company/SolOfMaxSubarray.java" />
-    </list>
+    <list default="true" id="beb24861-b30a-41a9-b8a4-4fd961a6a8b0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -76,11 +73,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SolOfRobber.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SolOfRobber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/SolOfRobber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
               <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SolOfNumArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/SolOfNumArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -116,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/com/company/SolOfMaxSubarray.java" />
         <option value="$PROJECT_DIR$/src/com/company/SolOfBuySellStock.java" />
         <option value="$PROJECT_DIR$/src/com/company/SolOfRobber.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SolOfNumArray.java" />
       </list>
     </option>
   </component>
@@ -682,6 +690,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SolOfNumArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
