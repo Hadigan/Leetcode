@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="beb24861-b30a-41a9-b8a4-4fd961a6a8b0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/SolOf2Sum.java" afterPath="$PROJECT_DIR$/src/com/company/SolOf2Sum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/SolfContainerWithMostWater.java" afterPath="$PROJECT_DIR$/src/com/company/SolfContainerWithMostWater.java" />
-    </list>
+    <list default="true" id="beb24861-b30a-41a9-b8a4-4fd961a6a8b0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SolOfIntToRoman.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SolOfIntToRoman.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/SolOfIntToRoman.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SolOfRomanToInt.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/SolOfRomanToInt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -82,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/com/company/SolOf2Sum.java" />
         <option value="$PROJECT_DIR$/src/com/company/SolfContainerWithMostWater.java" />
         <option value="$PROJECT_DIR$/src/com/company/SolOfIntToRoman.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SolOfRomanToInt.java" />
       </list>
     </option>
   </component>
@@ -354,16 +361,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/SolOf2Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -717,6 +714,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SolOfRomanToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
           <folding />
         </state>
       </provider>
