@@ -7,8 +7,8 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        int[] a = {1,2,3,4,5,6};
-        System.out.println(Arrays.copyOfRange(a,0,1).length);
+        int[][] d = new int[0][2];
+        System.out.println();
         return;
     }
 }
