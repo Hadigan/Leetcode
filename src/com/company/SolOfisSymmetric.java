@@ -27,6 +27,9 @@ public class SolOfisSymmetric {
                 else if (left == null || right == null) {
                     return false;
                 }
+                else if (left.val != right.val) {
+                    return false;
+                }
                 else {
                     treeNodes.offer(left.left);
                     treeNodes.offer(right.right);
